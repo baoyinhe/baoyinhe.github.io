@@ -1,25 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>zhangyuanes</title>
+  <title>baoyinhe</title>
   
-  <subtitle>yanbo</subtitle>
-  <link href="https://zhangyuanes.github.io/atom.xml" rel="self"/>
+  <subtitle>baoyin</subtitle>
+  <link href="https://baoyinhe.github.io/atom.xml" rel="self"/>
   
-  <link href="https://zhangyuanes.github.io/"/>
-  <updated>2021-07-16T05:18:29.510Z</updated>
-  <id>https://zhangyuanes.github.io/</id>
+  <link href="https://baoyinhe.github.io/"/>
+  <updated>2021-07-16T05:32:58.367Z</updated>
+  <id>https://baoyinhe.github.io/</id>
   
   <author>
-    <name>zhangyuanes</name>
+    <name>baoyinhe</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test2</title>
+    <link href="https://baoyinhe.github.io/2021/07/16/test2/"/>
+    <id>https://baoyinhe.github.io/2021/07/16/test2/</id>
+    <published>2021-07-16T05:31:32.000Z</published>
+    <updated>2021-07-16T05:32:58.367Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的第一篇博客——记录使用&quot;&gt;&lt;a href=&quot;#我的第一篇博客——记录使用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="bolg" scheme="https://baoyinhe.github.io/tags/bolg/"/>
+    
+    <category term="test" scheme="https://baoyinhe.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World to Hexo</title>
-    <link href="https://zhangyuanes.github.io/2020/09/11/hello-world/"/>
-    <id>https://zhangyuanes.github.io/2020/09/11/hello-world/</id>
+    <link href="https://baoyinhe.github.io/2020/09/11/hello-world/"/>
+    <id>https://baoyinhe.github.io/2020/09/11/hello-world/</id>
     <published>2020-09-11T12:26:00.000Z</published>
     <updated>2021-07-16T05:18:29.510Z</updated>
     
@@ -34,12 +59,12 @@
     
     
     
-    <category term="博客搭建" scheme="https://zhangyuanes.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客搭建" scheme="https://baoyinhe.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-    <category term="Hexo" scheme="https://zhangyuanes.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://baoyinhe.github.io/tags/Hexo/"/>
     
-    <category term="Gitpage" scheme="https://zhangyuanes.github.io/tags/Gitpage/"/>
+    <category term="Gitpage" scheme="https://baoyinhe.github.io/tags/Gitpage/"/>
     
   </entry>
   
